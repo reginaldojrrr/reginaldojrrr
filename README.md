@@ -1,4 +1,4 @@
-### Olá! Meu nome é Reginaldo, mas pode me chamar de Regis... 👋
+### Olá! Meu nome é Reginaldo, mas pode me chamar de Regis... 👋 ###
 - 🚀 Um Product Designer migrando para o Front-end.
 - 💻 Formando pela [EBAC - Escola Britânica de Artes Criativas e Tecnologia](https://ebaconline.com.br/)
 ##
