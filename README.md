@@ -1,16 +1,59 @@
-### Hi there 👋
+### Olá! Meu nome é Reginaldo, mas pode me chamar de Regis... 👋
+- 🚀 Um Product Designer migrando para o Front-end.
+- 💻 Formando pela [EBAC - Escola Britânica de Artes Criativas e Tecnologia](https://ebaconline.com.br/)
+##
+### ✉️ Entre em contato ###
+![Static Badge](https://img.shields.io/badge/LINKEDIN-grey?style=for-the-badge&logo=linkedin&color=%23323330&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Freginaldo-jrr%2F)
+![Static Badge](https://img.shields.io/badge/e--mail-grey?style=for-the-badge&logo=gmail&logoColor=white&color=%23323330&link=mailto%3Areginaldo.junior%40live.com)
+![Static Badge](https://img.shields.io/badge/website-grey?style=for-the-badge&logo=googlechrome&logoColor=white&color=%23323330&link=https%3A%2F%2Freginaldojunior.com)
+##
+### 🧰 Dev tools ###
+![Static Badge](https://img.shields.io/badge/macos-grey?style=for-the-badge&logo=apple&color=%23323330)
+![Static Badge](https://img.shields.io/badge/windows-grey?style=for-the-badge&logo=windows10&color=%23323330)
+![Static Badge](https://img.shields.io/badge/powershell-grey?style=for-the-badge&logo=powershell&logoColor=white&color=%23323330)
+![Static Badge](https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode&color=%23323330)
+![Static Badge](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git&logoColor=white&color=%23323330)
+![Static Badge](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&color=%23323330)
+![Static Badge](https://img.shields.io/badge/npm-grey?style=for-the-badge&logo=npm&logoColor=white&color=%23323330)
+![Static Badge](https://img.shields.io/badge/vercel-grey?style=for-the-badge&logo=vercel&color=%23323330)
 
-<!--
-**reginaldojrrr/reginaldojrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Linguagens ####
+![Static Badge](https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html5&logoColor=white&color=%23323330)
+![Static Badge](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css3&color=%23323330)
+![Static Badge](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&color=%23323330)
+![Static Badge](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&color=%23323330)
 
-Here are some ideas to get you started:
+#### Frameworks ####
+![Static Badge](https://img.shields.io/badge/vue-grey?style=for-the-badge&logo=vuedotjs&logoColor=white&color=%23323330)
+![Static Badge](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&color=%23323330)
+![Static Badge](https://img.shields.io/badge/jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&color=%23323330)
+![Static Badge](https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&color=%23323330)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Pré-processadores ####
+![Static Badge](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&color=%23323330)
+![Static Badge](https://img.shields.io/badge/less-grey?style=for-the-badge&logo=less&logoColor=white&color=%23323330)
+
+#### Automação de tarefas ####
+![Static Badge](https://img.shields.io/badge/gulp-grey?style=for-the-badge&logo=gulp&logoColor=white&color=%23323330)
+![Static Badge](https://img.shields.io/badge/grunt-grey?style=for-the-badge&logo=grunt&logoColor=white&color=%23323330)
+
+#### Testes ####
+![Static Badge](https://img.shields.io/badge/cypress-grey?style=for-the-badge&logo=cypress&logoColor=white&color=%23323330)
+
+##
+### 📊 Github Stats ###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reginaldojrrr&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldojrrr&layout=compact&theme=radical)
+
+
+
+
+
+
+
+
+
+
+
+
