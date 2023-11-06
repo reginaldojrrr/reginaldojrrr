@@ -42,7 +42,7 @@
 
 ##
 ### 📊 Github Stats ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reginaldojrrr&show_icons=true&theme=radical)
+![Reginaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=reginaldojrrr&show_icons=true&theme=radical&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldojrrr&layout=compact&theme=radical)
 
