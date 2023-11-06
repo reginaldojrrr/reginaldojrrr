@@ -3,9 +3,9 @@
 - 💻 Formando pela [EBAC - Escola Britânica de Artes Criativas e Tecnologia](https://ebaconline.com.br/)
 ##
 ### ✉️ Entre em contato ###
-![Static Badge](https://img.shields.io/badge/LINKEDIN-grey?style=for-the-badge&logo=linkedin&color=%23323330&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Freginaldo-jrr%2F)
-![Static Badge](https://img.shields.io/badge/e--mail-grey?style=for-the-badge&logo=gmail&logoColor=white&color=%23323330&link=mailto%3Areginaldo.junior%40live.com)
-![Static Badge](https://img.shields.io/badge/website-grey?style=for-the-badge&logo=googlechrome&logoColor=white&color=%23323330&link=https%3A%2F%2Freginaldojunior.com)
+[![Static Badge](https://img.shields.io/badge/LINKEDIN-grey?style=for-the-badge&logo=linkedin&color=%23323330&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Freginaldo-jrr%2F)](https://www.linkedin.com/in/reginaldo-jrr/)
+[![Static Badge](https://img.shields.io/badge/e--mail-grey?style=for-the-badge&logo=gmail&logoColor=white&color=%23323330&link=mailto%3Areginaldo.junior%40live.com)](mailto:reginaldo.junior@live.com)
+[![Static Badge](https://img.shields.io/badge/website-grey?style=for-the-badge&logo=googlechrome&logoColor=white&color=%23323330&link=https%3A%2F%2Freginaldojunior.com)](https://www.reginaldojunior.com/)
 ##
 ### 🧰 Dev tools ###
 ![Static Badge](https://img.shields.io/badge/macos-grey?style=for-the-badge&logo=apple&color=%23323330)
