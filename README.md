@@ -13,12 +13,13 @@
 ![Static Badge](https://img.shields.io/badge/powershell-grey?style=for-the-badge&logo=powershell&logoColor=white&color=%23323330)
 ![Static Badge](https://img.shields.io/badge/vscode-grey?style=for-the-badge&logo=visualstudiocode&color=%23323330)
 ![Static Badge](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git&logoColor=white&color=%23323330)
-![Static Badge](https://img.shields.io/badge/babel-grey?style=for-the-badge&logo=babel&logoColor=white&color=%23323330)
-![Static Badge](https://img.shields.io/badge/webpack-grey?style=for-the-badge&logo=webpack&logoColor=white&color=%23323330)
-![Static Badge](https://img.shields.io/badge/parcel-grey?style=for-the-badge&logoColor=white&color=%23323330)
 ![Static Badge](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&color=%23323330)
 ![Static Badge](https://img.shields.io/badge/npm-grey?style=for-the-badge&logo=npm&logoColor=white&color=%23323330)
 ![Static Badge](https://img.shields.io/badge/vercel-grey?style=for-the-badge&logo=vercel&color=%23323330)
+![Static Badge](https://img.shields.io/badge/babel-grey?style=for-the-badge&logo=babel&logoColor=white&color=%23323330)
+![Static Badge](https://img.shields.io/badge/webpack-grey?style=for-the-badge&logo=webpack&logoColor=white&color=%23323330)
+![Static Badge](https://img.shields.io/badge/vite-grey?style=for-the-badge&logo=vite&logoColor=white&color=%23323330)
+![Static Badge](https://img.shields.io/badge/parcel-grey?style=for-the-badge&logoColor=white&color=%23323330)
 
 #### Linguagens ####
 ![Static Badge](https://img.shields.io/badge/html-grey?style=for-the-badge&logo=html5&logoColor=white&color=%23323330)
